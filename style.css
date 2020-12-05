@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Texturina', serif;
+    color: #40514e;
+} 
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 90px;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 100;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: fantasy;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+}
+
+p {
+    font-weight: 600;
+    line-height: 2;
+}
+
+a {
+    color: #11999e;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border: dotted #eaf6f6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+img.profile-img {
+    width: 180px;
+    border-radius: 100%;
+}
+
+.webdev{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.digital {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container {
+    display: inline-block;
+    width: 100%;
+    background-color: #Eaf6f6;
+    position: relative;
+    padding-top: 0;
+    height: 100vh;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    display: inline-block;
+    background-color: #66bfbf;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    color: black;
+    background-color: white;
+}
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+    
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.contact-para {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+/*-Clear left to not wrap-*/
+
+
+
+
+
+
+
+
